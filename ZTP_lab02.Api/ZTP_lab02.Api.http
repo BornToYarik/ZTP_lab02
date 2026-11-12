@@ -1,0 +1,6 @@
+@ZTP_lab02.Api_HostAddress = http://localhost:5054
+
+GET {{ZTP_lab02.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
